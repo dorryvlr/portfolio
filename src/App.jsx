@@ -6,8 +6,6 @@ function App() {
     </div>
   );
 }
-
-export default App;
 import Navbar from "./components/ui/Navbar.jsx";
 
 function App() {
