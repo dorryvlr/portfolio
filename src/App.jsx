@@ -1,17 +1,10 @@
-function App() {
-  return (
-    <div>
-      <h1>WORKING 🔥</h1>
-      <h1>My Portfolio 🚀</h1>
-    </div>
-  );
-}
 import Navbar from "./components/ui/Navbar.jsx";
 
 function App() {
   return (
     <div>
       <h1>WORKING 🔥</h1>
+      <h1>My Portfolio 🚀</h1>
       <Navbar />
     </div>
   );
