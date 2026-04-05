@@ -1,5 +1,6 @@
 import Navbar from "./components/ui/Navbar.jsx";
 import Hero from "./components/figma/Hero.jsx";
+import VideoSection from "./components/figma/VideoSection.jsx";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
 
       <Navbar />
       <Hero />
+      <VideoSection />
     </div>
   );
 }
