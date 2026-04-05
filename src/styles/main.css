@@ -1,1 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+}
 
+h1, h2 {
+  margin: 10px;
+}
+
+section {
+  padding: 40px;
+}
